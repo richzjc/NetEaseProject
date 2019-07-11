@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RedPackage</string>
+    <string name="accessibility_name">红包插件</string>
+    <string name="accessibility_description">这个是红包插件</string>
+</resources>
